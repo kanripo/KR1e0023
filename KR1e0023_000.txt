@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 劉氏春秋意林
-#+DATE: 2015-09-23 09:39:27
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:13:06.448585
+#+PROPERTY: ID KR1e0023
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1e0023_WYG_000-1a>¶
 欽定四庫全書　　　　經部五¶
 　春秋意林　　　　　　春秋類¶
@@ -29,4 +31,3 @@
 　　　　存而不論可矣乾隆四十五年二月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　總　校　官(臣/)陸　費　墀¶
-
